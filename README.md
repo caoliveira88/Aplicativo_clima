@@ -1,13 +1,11 @@
 # Aplicativo_Clima
 
-Aplicativo para conferir clima pesquisando por cidades do mundo todo, utilizando API para trazer os dados climáticos! 
-
-Uma aplicação repleta de recursos para verificar as condições climáticas em cidades globais. </br>
+Uma aplicação com recursos para verificar as condições climáticas em cidades globais. utilizando API para trazer os dados climáticos!  </br>
 Desenvolvido durante a aula do Matheus Battisti, da Comunidade Hora de Codar. 🌦️
 
 ![Aplicativo_Clima](img/paris.jpg)
 
-## Tecnicas e ferramentas utilizadas
+## Tool kit
  
 - ``HTML:`` Estrutura para a base da aplicação.
 - ``CSS:`` Estilo para uma experiência agradável.
